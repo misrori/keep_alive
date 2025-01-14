@@ -7,7 +7,7 @@ name: run task.py
 
 on:
   schedule:
-    - cron: '0 4 * * *' 
+    - cron: '0 0 * * *' 
 
 
 jobs:
